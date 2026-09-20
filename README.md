@@ -30,9 +30,9 @@
    <p>
         Developing an autonomous AI trading agent for the stock market is challenging due to the highly dynamic nature of financial markets, the need to process prices, trading volumes, technical indicators, news, and other factors in real time, as well as the risk of generative models making poorly grounded trading decisions. The goal was to build a robust agent based on open-source generative AI that could independently analyze market data, make buy, sell, or hold decisions, manage a portfolio in the Moscow Exchange test environment, follow risk management rules, log trades and portfolio states, and ensure both the reproducibility of the trading strategy and transparency of its decisions.
    </p>
-   <a href="https://github.com/Serfetto/MOEX-Hackathon">Гитхаб с решением</a> 
+   <a href="https://github.com/Serfetto/MOEX-Hackathon">GitHub with the solution</a> 
     <br>
-   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/moex.png">Сертификат</a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/moex.png">Certificate</a> 
     <br>
 </div>
 
