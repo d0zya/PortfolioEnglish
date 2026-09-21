@@ -105,7 +105,7 @@
    </p>
    <a>Paper: <i>coming soon</i></a> 
    <br>
-   <a href="https://github.com/d0zya/PortfoliEnglish/blob/main/certificates/smile.png">Certificate</a> 
+   <a href="https://github.com/d0zya/PortfolioEnglish/blob/main/certificates/smile.png">Certificate</a> 
    <br>
 </div>
 
