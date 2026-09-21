@@ -93,6 +93,24 @@
 </div>
      
 <div>
+<h1>SMILE 2026 - Machine Learning Research School</h1>
+
+  <div align="center">
+      <img src="https://github.com/d0zya/PortfolioEnglish/blob/main/hack_imgs/smile.png" alt="Image 5" width="25%">
+  </div>
+   <br>
+   <strong>Description:</strong>
+   <p>
+       Participated in the international SMILE 2026 research school organized by Skoltech and Nanjing University. As part of the program, I studied modern machine learning methods and worked on a research project focused on controlling the behavior of large language models through their internal representations using activation steering and Jacobian Lens. The project involved a series of experiments and resulted in a research paper.
+   </p>
+   <a>Paper: <i>coming soon</i></a> 
+   <br>
+   <a href="https://github.com/d0zya/PortfoliEnglish/blob/main/certificates/smile.png">Certificate</a> 
+   <br>
+</div>
+
+
+<div>
 <h1>School21 Educational Projects by Sber</h1>
   
   <div align="center">
