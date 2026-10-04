@@ -1,6 +1,25 @@
 > Some projects are currently being processed—links to approvals and certificates will be added shortly.
 
 <div>
+<h1>Final CosmoHackaton – 1st Place</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/PortfolioEnglish/blob/main/hack_imgs/cosmo_final.png" alt="Image 1", width="50%">
+  </div>
+   <br>
+   <strong>Problem:</strong>
+   <p>
+        Monitoring floating debris in marine and coastal waters is challenging due to the vast areas that need to be observed, the limited availability of field measurements, and the difficulty of detecting debris in satellite imagery against clouds, waves, sun glare, and organic objects. As part of the project, we developed AquaFlow, a service that combines Sentinel-2 satellite imagery with field data to automatically identify areas with floating debris and estimate its concentration. The system uses an ML model for debris detection, evaluates the reliability of the obtained results, forecasts debris drift up to 72 hours ahead while accounting for currents and wind, and builds vessel routes to the detected accumulation zones. 
+   </p>
+   <a href="https://github.com/Serfetto/kosmofinal">GitHub with the solution</a> 
+    <br>
+   <a>Certificate: <i> pending from organizers <i></a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/16fatrF2J_Zf5IjXMaO9lIBVD7YEKhxMp/edit?usp=sharing&ouid=102353954676654152695&rtpof=true&sd=true"> Presentation </a>
+    <br>
+</div>
+
+<div>
 <h1>Kazan City Hall Hackathon – 1st Place</h1>
   
   <div align="center">
@@ -16,6 +35,25 @@
    <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/s21hackdip.png">Certificate</a> 
     <br>
    <a href="https://drive.google.com/file/d/1-2edwfHYa6wvPpILwqwmXj5YVmYHmLlo/view?usp=sharing"> Presentation </a>
+    <br>
+</div>
+
+<div>
+<h1>CosmoHackaton Blagoveshchensk – 2st Place</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/PortfolioEnglish/blob/main/hack_imgs/cosmo_blag.png" alt="Image 1", width="50%">
+  </div>
+   <br>
+   <strong>Problem:</strong>
+   <p>
+        Flood monitoring across large areas is challenging due to cloud cover, differences between satellite acquisitions, seasonal changes in water bodies, and the presence of various objects that may be incorrectly classified as water based on their spectral or radar characteristics. As part of the project, we developed HydroWatch Amur, a system for automatically analyzing Sentinel-1 and Sentinel-2 imagery, detecting flooded areas, and estimating the amount of land affected by flooding. The solution combines radar and optical data, accounts for the baseline state of the area before a flood, filters out permanent water bodies and false positives, and enables reproducible assessment of flood dynamics across different regions.
+   </p>
+   <a href="https://github.com/Serfetto/kosmohack2">GitHub with the solution</a> 
+    <br>
+   <a>Certificate: <i> pending from organizers <i></a> 
+    <br>
+   <a href="https://drive.google.com/file/d/1RPxG1I8pbkzK3eQZkn69ckMfe-KGGwZ2/view?usp=sharing"> Presentation </a>
     <br>
 </div>
 
