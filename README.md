@@ -162,3 +162,19 @@
    <a href="https://github.com/d0zya/MLProjectsFromSchool21">GitHub with the solution</a> 
     <br>
 </div>
+
+<div>
+<h1>Deep Learning School (MIPT)</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/dls.png" alt="Image 6", width="25%">
+  </div>
+   <br>
+   <strong>Description:</strong>
+   <p>
+       This repository contains a collection of machine learning projects I completed during my studies. It includes implementations of algorithms written from scratch, as well as experiments in classical machine learning, unsupervised learning, and deep learning. The main goal of this repository is to demonstrate both an understanding of machine learning theory and practical implementation skills using Python and popular machine learning libraries.
+   </p>
+   <a href="https://github.com/d0zya/PortfolioEnglish/blob/main/certificates/dls1.png">Certificate 1 (Classic ML & CV)</a> 
+   <a href="https://github.com/d0zya/PortfolioEnglish/blob/main/certificates/dls2.png">Certificate 2 (NLP)</a> 
+    <br>
+</div>
